@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/__imfaiyyazz__" target="blank"><img src="https://img.shields.io/twitter/follow/__imfaiyyazz__?logo=twitter&style=for-the-badge" alt="__imfaiyyazz__" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **COLLEGE PROJECTS**
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **BACKEND AND FRONTEND**
 
 - 💬 Ask me about **MERN**
 
