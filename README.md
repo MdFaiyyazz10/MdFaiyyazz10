@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/your-username" alt="mdfaiyyazz10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfaiyyazz10&label=Profile%20views&color=0e75b6&style=flat" alt="mdfaiyyazz10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdfaiyyazz10" alt="mdfaiyyazz10" /></a> </p>
 
